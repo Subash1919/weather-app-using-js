@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    /* background-image:url(image/1590232544_439_Weather-Wallpapers-2020.jpg);
+    width: 100%; */
+    
+}
+.maincontainer{
+    margin-top: 5rem;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.imge{
+    width:13rem;
+    height:13rem;
+    
+}
+.subcont{
+    background-image: linear-gradient(red,blue);
+    /* background-color: green; */
+    width: 70%;
+}
+.d-flex1{
+    display: flex;
+    justify-content: space-between;
+}
+.userinput{
+    margin-top: 2rem;
+    font-size: 1.25rem;
+}
+.int{
+    width: 60%;
+    height: 2rem;
+    border-radius: .9rem;
+    border: none;
+    font-size: 1.25rem;
+    font-family: cursive;
+    font-weight: bold;
+    
+}
+.btn{
+    width:5rem;
+    height: 2rem;
+    border-radius: 0.9rem;
+    margin-left: 0.7rem;
+    border: none;
+    font-size: 1.25rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+    color: black;
+    padding-right: 0.5rem;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 0px;
+    font-family: cursive;
+    font-weight:bold;
+}
+h3{
+    font-size: 1.5rem;
+    color: white;
+    font-family: cursive;
+    font-weight: normal;
+}
+.rightcont{
+    padding-left: 1rem;
+}
+.leftcont{
+    padding-right: 1rem;
+}
